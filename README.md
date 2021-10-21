@@ -26,7 +26,7 @@ project to clean twitter data
 Features
 --------
 
-* TODO
+Python project to clean twitter data
 
 Credits
 -------
